@@ -1,6 +1,7 @@
 # Example TODO Manager Application
 
-Example TODO manager app with react-native **(expo)** & Firebase
+Example TODO manager app with `react-native (expo) & Firebase`
+
 Crossplatform supported (web, Android, iOS)
 
 **Please type in firebase settings to `FirebaseConfig.js.`**
